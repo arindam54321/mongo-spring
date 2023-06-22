@@ -28,4 +28,13 @@ public class AccountService {
     public List<Account> getAccounts() {
         return repository.findAll();
     }
+
+    public String deleteAccount(Integer id) {
+        Optional<Account> account = repository.findById(id);
+        if (account.isEmpty()) {
+            return "Account doesn't exists";
+        }
+        repository.deleteById(id);
+        return "Account deleted";
+    }
 }

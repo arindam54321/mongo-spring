@@ -1,7 +1,10 @@
 /Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/controller/MainController.java
 /Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/service/AccountService.java
 /Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/repository/AccountRepository.java
+/Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/utils/ResponseWrapper.java
+/Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/controller/ErrorPage.java
 /Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/model/Account.java
 /Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/MongoDbApplication.java
 /Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/model/AccountDTO.java
 /Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/controller/AccountController.java
+/Users/arindamnag/Documents/intelliJ/workspace/MongoDB/src/main/java/com/mongo/db/controller/HomeController.java
